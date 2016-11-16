@@ -102,7 +102,7 @@
   display: table !important;
   font-family: "Montserrat";
   font-size: 0.75rem;
-  font-weight: 700;
+  /*font-weight: 700;*/
   height: auto !important; }
   .nav-dropdown .nav-item {
     display: table-cell;
@@ -146,8 +146,7 @@
     border: 0;
     left: 0;
     margin: 0;
-    padding-bottom: 1.25rem;
-    padding-top: 1.25rem; }
+    padding-bottom: 1.25rem; }
   .nav-dropdown .dropdown-submenu {
     left: 100%;
     margin-left: 0.125rem;
@@ -157,7 +156,7 @@
     font-size: 0.8125rem;
     font-weight: 500;
     line-height: 2;
-    padding: 0.3846em 4.615em 0.3846em 1.5385em;
+    padding: 0.3846em 0.9em 0.3846em 1.5385em;
     position: relative;
     transition: color .2s ease-in-out, background-color .2s ease-in-out; }
     .nav-dropdown .dropdown-item::after {

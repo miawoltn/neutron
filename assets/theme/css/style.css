@@ -2002,7 +2002,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-iconfont.mbr-iconfont-btn-parent,
 .link .mbr-iconfont {
   font-size: 1.4em;
-  top: -0.3em;
+  /*top: -0.3em;*/
   position: relative;
   vertical-align: middle; }
 
